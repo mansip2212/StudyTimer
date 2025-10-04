@@ -22,3 +22,4 @@ A sleek, modern, and futuristic **Study Timer** built with **React** and **Tailw
 
 ---
 
+Made with ❤️ by Mansi Patel – Stay productive and focused!
